@@ -711,48 +711,68 @@ const localQuotes = [
     text: "Pride is not the opposite of shame, but it’s source. True humility is the only antidote to shame.",
     author: 'Uncle Iroh',
   },
+  {
+    text: "When you base your expectations only on what you see, you blind yourself to the possibilities of a new reality",
+    author: 'Zaheer',
+  },
+  {
+    text: "The true mind can weather all the lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed. Since beginningless time, darkness thrives in the void, but always yields to purifying light",
+    author: 'Ancient Lion Turtle',
+  },
+  {
+    text: "Sometimes life is like this dark tunnel. You can't always see the light at the end of the tunnel, but if you just keep moving...you will come to a better place.",
+    author: 'Uncle Iroh',
+  },
+  {
+    text: "When love is real, it finds a way.",
+    author: 'Avatar Roku',
+  },
+  {
+    text: "Admitting your fears is the the first and the most difficult step in overcoming them.",
+    author: 'Tenzin',
+  },
+  {
+    text: "Your focus determines your reality.",
+    author: 'Qui-Gon Jinn',
+  },
+  {
+    text: "This is a new day, a new beginning.",
+    author: 'Ahsoka',
+  },
+  {
+    text: "He who fears he will suffer, already suffers because he fears.",
+    author: 'Michel De Montaigne',
+  },
+  {
+    text: "If you don’t like something, change it. If you can’t change it, change the way you think about it.",
+    author: 'Mary Engelbreit',
+  },
+  {
+    text: "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+    author: 'Bill Keane',
+  },
+  {
+    text: "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.",
+    author: 'Helen Keller',
+  },
+  {
+    text: "Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.",
+    author: 'Sigmund Freud',
+  },
+  {
+    text: "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+    author: 'Joshua J. Marine',
+  },
+  {
+    text: "The only way that we can live is if we grow. The only way we can grow is if we change. The only way we can change is if we learn. The only way we can learn is if we are exposed. And the only way that we are exposed is if we throw ourselves into the open.",
+    author: 'C. Joybell',
+  },
+  {
+    text: "Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity",
+    author: 'Henry van Dyke',
+  },
   // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
+  //   text: "No matter how things may seems to change, never forget who you are.",
   //   author: null,
   // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-  // {
-  //   text: "You can do what's reasonable or you can decide what's possible.",
-  //   author: null,
-  // },
-];
+];s
